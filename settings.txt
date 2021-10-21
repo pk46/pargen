@@ -1,0 +1,5 @@
+Počet sloupců pro kategorie: 104
+Počet rádků pro parametry: 300
+Počet sloupců pro hodnoty parametrů: 16
+Počet řádků pro přípravu produktů: 30
+Cesta ke zdrojovému souboru: \import_parametru.xlsx
